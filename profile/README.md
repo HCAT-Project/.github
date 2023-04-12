@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo.png" width = 300 height = 300 />
+<img src="https://github.com/HCAT-Project/.github/blob/main/profile/assets/logo.png?raw=true" width = 300 height = 300 />
 <h1>HCat Project</h1>
 <p>HCat 是致力于成为真正小而美的开源在线网页聊天程序</p>
 <p>HCat 名称来自于单词:Chat <del>因为项目发起者喜欢猫猫,故起名为HCat</del></p>
